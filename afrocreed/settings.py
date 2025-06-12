@@ -35,7 +35,7 @@ DEBUG = True
 # ALLOWED_HOSTS = ['134b-105-160-62-18.ngrok-free.app']
 # CSRF_TRUSTED_ORIGINS = ['https://134b-105-160-62-18.ngrok-free.app']
 
-ALLOWED_HOSTS = ['https://afrocreed.com','web-production-73f99.up.railway.app']
+ALLOWED_HOSTS = ['https://afrocreed.com','afrocreed.com' ,'web-production-73f99.up.railway.app', 'https://web-production-73f99.up.railway.app/']
 CSRF_TRUSTED_ORIGINS = ['https://www.afrocreed.com','https://web-production-73f99.up.railway.app/']
 
 
