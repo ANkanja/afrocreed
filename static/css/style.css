@@ -914,14 +914,14 @@ a {
     height: 400px;
     padding: 40px; }
   .product-item img {
-    left: 50%;
-    top: 15%;
+    /* left: 50%; */
+    /* top: 15%; */
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     -o-object-fit: cover;
     object-fit: cover;
-    max-width: 300px;
+    /* max-width: 300px; */
     position: absolute; }
 
 .item-entry .product-item {
